@@ -1,0 +1,2 @@
+From the preliminary analysis I was able to, see that 19% of the dataset is duplicated, there are no missing values.
+from the Exploratory analysis we can see that chlorides column is highly skewwed, a number of column kis moderatly skewed and some columns are fairely skewd. a number of columns have outliers
