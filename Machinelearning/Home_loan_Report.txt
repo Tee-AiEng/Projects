@@ -19,7 +19,7 @@ financial, and credit-related attributes.
 |--------------------|-----------|------------|--------------|
 | Gender             | 601       | object     | Applicant’s gender (Male/Female) |
 | Married            | 611       | object     | Marital status |
-| Dependents         | 599       | object     | Number of dependents (0,1,2,3+) |
+| Dependents         | 599       | object     | Number of dependents (0,1,2,3) |
 | Education          | 614       | object     | Applicant’s education level |
 | Self_Employed      | 582       | object     | Employment type (Yes/No) |
 | ApplicantIncome    | 614       | int64      | Applicant’s income |
