@@ -5,3 +5,6 @@ seaborn
 Scikit-learn
 scipy
 imbalanced-learn
+xgboost
+lightgbm
+shap
