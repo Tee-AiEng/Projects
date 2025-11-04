@@ -4,3 +4,4 @@ matplotlib
 seaborn
 Scikit-learn
 scipy
+imbalanced-learn
