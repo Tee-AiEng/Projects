@@ -8,3 +8,6 @@ imbalanced-learn
 xgboost
 lightgbm
 shap
+fastapi 
+pydantic
+uvicorn

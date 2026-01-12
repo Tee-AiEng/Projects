@@ -1,0 +1,52 @@
+{
+  "original_shape": [
+    25480,
+    11
+  ],
+  "final_shape": [
+    25480,
+    26
+  ],
+  "selected_features": [
+    "continent",
+    "education_of_employee",
+    "has_job_experience",
+    "requires_job_training",
+    "no_of_employees",
+    "yr_of_estab",
+    "region_of_employment",
+    "full_time_position",
+    "needs_traing_has_experience",
+    "needs_traing_no_experience",
+    "region_median_wage",
+    "annual_wage_log",
+    "wage_per_hour_log",
+    "wage_per_week_log",
+    "wage_per_month_log",
+    "wage_vs_region_log",
+    "age_establishment_log"
+  ],
+  "engineered_features": [
+    "needs_traing_has_experience",
+    "needs_traing_no_experience",
+    "region_median_wage",
+    "annual_wage_log",
+    "wage_per_hour_log",
+    "wage_per_week_log",
+    "wage_per_month_log",
+    "wage_vs_region_log",
+    "age_establishment_log"
+  ],
+  "train_samples": 27228,
+  "test_samples": 27228,
+  "scaling_method": "RobustScaler",
+  "outlier_treatment": "Log Transformation",
+  "log_transformed": [
+    "annual_wage",
+    "wage_per_hour",
+    "wage_per_week",
+    "wage_per_month",
+    "wage_vs_region",
+    "age_establishment"
+  ]
+}
