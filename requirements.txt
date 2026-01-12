@@ -11,3 +11,4 @@ shap
 fastapi 
 pydantic
 uvicorn
+requests
