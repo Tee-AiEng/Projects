@@ -42,10 +42,10 @@ class AlphavantageApi:
         data_type = "json"
 
         url =  (
-        "https://www.alphavantage.co/query?"
+        "https://learn-api.wqu.edu/1/data-services/alpha-vantage/query?"
         "function=TIME_SERIES_DAILY&"
         f"symbol={ticker}&"
-        f"outsize={output_size}&"
+        f"outputsize={output_size}&"
         f"datatype={data_type}&"
         f"apikey={self.__api_key}"
     )
